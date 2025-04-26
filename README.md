@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikrant Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="vikrant11933" width="200" style="border-radius:50%" />
-</p>
 
 ---
 
