@@ -42,27 +42,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikrant11933&show_icons=true&theme=radical" alt="vikrant11933 stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant11933&theme=radical" alt="vikrant11933 streak" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant11933&layout=compact&theme=radical" alt="vikrant11933 top languages" width="48%" />
-</p>
-
----
-
-### 🐍 Contribution Snake:
-
-<p align="center">
-  <img src="https://github.com/vikrant11933/vikrant11933/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### 📫 Connect With Me:
 
 - ✉️ Email: **vikrant1193@gmail.com**
