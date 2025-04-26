@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 - 🌱 I’m currently learning **Advanced Backend Technologies**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/vikrant11933)
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **vikrant11933@gmail.com**
 
 ---
 
